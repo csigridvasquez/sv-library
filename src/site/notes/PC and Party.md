@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pc-and-party/","dgHomeLink":true}
 ---
 
-![image-2.png](/img/user/media/image-2.png)
+![image-4.png|700](/img/user/media/image-4.png)
 # Character Creation & Party Building 
 The choices you make — your skills, flaws, goals, and bonds — shape the story we tell together. Build a team you want to see grow, clash, and survive side by side.
 

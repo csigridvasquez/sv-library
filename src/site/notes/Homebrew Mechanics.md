@@ -285,6 +285,7 @@ Mood tracks a character’s emotional state and how it affects their actions in 
 | 5-8  | Neutral        | No effect.                                                                                                             |
 | 1-4  | Breaking Point | Disadvantage on 1 type of roll (player’s choice: attack/saving throw or opposed ability/ability check)                 |
 | 0    | Mental Break   | Immediately roll d10 on the Mental Strain Table. Gain Catharsis after rest.Reset mood to 4 at the end of Mental Break. |
+
 Ate more than enough
 Had a long rest 
 Critical success on an attack or ability check 
