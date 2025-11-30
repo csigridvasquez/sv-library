@@ -102,19 +102,20 @@ The GM may call for, or a player may propose, an alternative ability–skill com
 
 ---
 ## Critical Mastery.
-When you roll a natural 20 on an skill check, you gain Critical Mastery for that skill.
-You may spend your Critical Mastery to gain advantage on a future check of the same skill.
-You can only hold one Critical Mastery per skill, but you may have multiple Critical Masteries across different skills.
+When you roll a natural 20 on an skill check, you gain **Critical Mastery** for that skill.
+You may spend your **Critical Mastery** to gain advantage on a future check of the same skill.
+
+You can only hold one **Critical Mastery** per skill, but you may have multiple Critical Masteries across different skills.
 
 <br>
 
 ---
 ## Incompetence
-Incompetence represents a skill in which your character is notably poor—clumsy, forgetful, or just plain bad at it. 
-Whenever you gain a skill proficiency as part of your Background, select a different skill in which you will have Incompetence. If you do not take skill proficiencies, you do not take an Incompetence.
+**Incompetence** represents a skill in which your character is notably poor—clumsy, forgetful, or just plain bad at it. 
+Whenever you gain a skill proficiency as part of your Background, select a different skill in which you will have **Incompetence**. If you do not take skill proficiencies, you do not take an **Incompetence**.
 	5e 2014 backgrounds (PHB) all feature 2 skill proficiencies. For 5e 2024, take 2 skills for Incompetence regardless of how your Origin is crafted.
 
-If you are Incompetent in a skill, roll checks with disadvantage when using that skill. You also cannot give the Help action to another character making a skill check with the skill you are Incompetent in.
+If you are **Incompetent** in a skill, you roll checks with disadvantage when using that skill. You also cannot give the **Help** action to another character making a skill check with the skill you are Incompetent in.****
 
 >[!important]
 > Incompetence overrides proficiency — you cannot later gain proficiency or expertise in that skill unless the DM rules a narrative reason for growth or training removes the incompetence.
@@ -127,13 +128,15 @@ If you are Incompetent in a skill, roll checks with disadvantage when using that
 Requires at least **one hour** out of combat or adventuring activity. At the end of a short rest, you can spend one or more hit dice to recover lost hit points up to your maximum. For each hit die spent, roll the appropriate dice and add them together. You can spend them one at a time.
 
 Additionally, recover expended spell slots equal to or less than half your spellcasting level rounded up. See [[#Short rest recovery]].
-	`Long rest removed: any rest taken, regardless of length, is considered a short rest unless it satisfies all the requirements of a safe rest. Also applies interrupted safe rests.`
+
+>[!warning]- Long rest removed
+>Any rest taken, regardless of length, is considered a short rest unless it satisfies all the requirements of a safe rest. Also applies interrupted safe rests.`
 
 <br>
 
 ---
 ## Safe Rest
-Replaces "long rest". Requires at least 8 hours out of combat or adventuring activity in a safe place (designated by the DM), typically lodging at a tavern, and at least 6 of those hours must be spent sleeping. On completion:
+Replaces "long rest". Requires at least **8 hours** out of combat or adventuring activity in a safe place (designated by the DM), typically lodging at a tavern, and at least 6 of those hours must be spent sleeping. On completion:
 - regain up to half of your total hit dice
 - recover up to your maximum HP
 - remove 1 level of exhaustion
@@ -143,9 +146,9 @@ Replaces "long rest". Requires at least 8 hours out of combat or adventuring act
 ---
 ## Downtime
 Often in periods during adventures where nothing “important” is happening, your character will have “downtime” in which to do perform more mundane activities.
-Some activities laid out from [[Xanathar's Guide to Everything\|Xanathar's Guide to Everything]], although availability of these activities depend on the campaign/DM.
+Some activities laid out from [[Xanathar's Guide to Everything\|Xanathar's Guide to Everything]], although availability of these activities depend on the campaign.
 
->[!todo] Downtime mechanics
+>[!check] Downtime mechanics
 >- Roll a d20 to determine success of the downtime activity, adding appropriate modifiers.
 >- They can only attempt 1 check per set period-of-time (usually 1 week). The DC for downtime success is 15 (increased to 20 for PCs at least Level 5, 25 for PCs at least level 10).
 >- DC is lowered by 5 on the next attempt of the same activity following a failure. DC can be lowered twice up to DC 10.
@@ -187,11 +190,13 @@ Some activities laid out from [[Xanathar's Guide to Everything\|Xanathar's Guide
 # Combat/Action Economy
 
 ## Ammunition and Spellcasting Components
-We're going a tiny bit easier on spellcasting and ammunition. Spells in this campaign require only verbal and somatic components; material components are ignored, unless a spell’s description or this document specifically states otherwise (see [[#^Spellcasting]]).  Likewise, ammunition are not tracked for weapons with the ammunition mechanic.
+We're going a tiny bit easier on spellcasting and ammunition. Spells in this campaign **require only verbal and somatic component**s; material components are ignored, unless a spell’s description or this document specifically states otherwise (see [[#^Spellcasting]]).  Likewise, ammunition are not tracked for weapons with the ammunition mechanic.
 
 ## Attack Crits
 When you roll a natural 20 on an attack roll, your attack hits with extra force. Roll the attack's regular damage and add maximum damage dice.
-	**Splash Damage.** After applying your critical hit damage, choose another enemy within 5 feet of your original target. That creature takes damage equal to half of the total rolled damage (rounded down).
+
+#### Splash Damage.
+After applying your critical hit damage, choose another enemy within 5 feet of your original target. That creature takes damage equal to half of the total rolled damage (rounded down).
 
 <br>
 
@@ -203,7 +208,16 @@ You can only use [[Weapons#Mastery Properties\|Weapon Mastery]] properties a num
 <br>
 
 ---
-## Potions as Bonus Action
+## Revised Potions
+A small buff to potions:
+
+| Type of Potion             | Dice    |
+| -------------------------- | ------- |
+| Potion of Lesser Healing   | 3d6     |
+| Potion of Greater Healing  | 5d6     |
+| Potion of Superior Healing | 8d6 + 2 |
+
+>[!tip] Potions as a Bonus Action
 Instead of an action, drinking a healing potion can be a bonus action.
 
 <br>
@@ -232,8 +246,8 @@ Instead of an action, drinking a healing potion can be a bonus action.
 
 ## Short rest recovery
 Recover expended spell slots equal to or less than half your spellcasting level rounded up after a short rest.
-	`Note: in PHB, Arcane Recovery is available to wizards only and only once per long rest. This mechanic changes that.`
-	#Wizard #Artificer #Cleric #Druid #Paladin #Spellcasting
+
+ >[!tip] in PHB, Arcane Recovery is available to wizards only and only once per long rest. This mechanic changes that.`
 
 <br>
 
@@ -242,8 +256,8 @@ Recover expended spell slots equal to or less than half your spellcasting level 
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point and 1 level of exhaustion. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
 This spell requires material equal to 300 G on the caster's person to complete.
-	`Note: added exhaustion mechanic and reaffirmed material requirement.`
-	#Artificer #Cleric #Druid #Paladin #Ranger
+
+`Note: added exhaustion mechanic and reaffirmed material requirement.`
 
 <br>
 

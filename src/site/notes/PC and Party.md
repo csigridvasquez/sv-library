@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pc-and-party/","dgHomeLink":true}
 ---
 
+![image-2.png](/img/user/media/image-2.png)
 # Character Creation & Party Building 
 The choices you make — your skills, flaws, goals, and bonds — shape the story we tell together. Build a team you want to see grow, clash, and survive side by side.
 
@@ -13,7 +14,7 @@ The choices you make — your skills, flaws, goals, and bonds — shape the stor
 > [!dmnote] Level Progression
 > Follow the leveling system of the source your class comes from. For example, you can’t take a 5e (2014) class and level it using 5e (2024) rules, even if the class names are the same. Applies to feats as well.
 
-
+<br>
 
 ---
 ## Party Building
@@ -21,7 +22,9 @@ You’re free to create whoever you want — just remember, this story is built 
 
 A balanced party helps, but it’s not required. Cover your bases if you can, or embrace the chaos and see how your crew survives together.
 
+![image-1.png](/img/user/media/image-1.png)
 
+<br>
 
 ---
 ## Ability Scores
@@ -44,7 +47,8 @@ Your ability scores define your strengths, weaknesses, and how you stand out in 
 > [!dmnote] Overpowered/underpowered?
 > If you are rolling and you roll ridiculously well and feel like that might be too overpowered or just not right for your character, let the DM know and they can grant you a reroll. If you roll really poorly, you have the option to revert to the standard array.
 
-
+<br><br>
+![image-3.png](/img/user/media/image-3.png)
 
 ---
 # Your Character
@@ -56,11 +60,11 @@ Your characters are more than their stats — they’re people with histories, h
 
 >[!question] Who are you?
 
-
+<br>
 
 ---
 ## Relationships
-Talk as a group about how much your characters already know each other. In this campaign, your characters are in the same setting—but there are levels to that. Were you friends, rivals, or strangers who crossed paths once or twice? Shared history — even small moments — helps your group feel connected from the start.
+Talk as a group about how much your characters already know each other. In this campaign, your characters are in the same setting—but there are levels to that. Were you friends, rivals, or strangers who crossed paths once or twice? Shared history — even small moments ****— helps your group feel connected from the start.
 
 Bonds and rivalries make the group dynamic more real — and give everyone something to play off when the story begins.
 
@@ -71,11 +75,11 @@ Bonds and rivalries make the group dynamic more real — and give everyone somet
 > ***Reminder to check in with your fellow PC and get this greenlit before laying it as canon.***
 
 > [!dmnote] DM your DM
-> Remember, this is **collaborative storytelling**. If your backstory or ideas involve another player’s character, talk about it first — either with them or with the DM — before revealing it in play. Surprises are great, but we want them to _add_ to the story, not disrupt it.
+> Remember, this is ***collaborative storytelling***. If your backstory or ideas involve another player’s character, talk about it first — either with them or with the DM — before revealing it in play. Surprises are great, but we want them to _add_ to the story, not disrupt it.
 > 
 > Everyone loves a good plot twist — the DM is here to help you make it land just right.
 
-
+<br>
 
 ---
 ## Backstories
@@ -91,8 +95,8 @@ Your answers don’t need to be long — just honest. These small details make t
 > 
 > However, the one question you **should** be able to answer before we begin is: **“Why are you here on this adventure?”**
 
-
-
+---
+<br><br><br><br>
 
 
 
