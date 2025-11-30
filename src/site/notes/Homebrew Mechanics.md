@@ -29,10 +29,10 @@
  I've included a mix of stuff that are essentially buffs and nerfs (or both!) compared to 5e rules and mechanics - let me know what you think!
 
 
+![image-2.png](/img/user/media/image-2.png)
 
 ---
 # Rolling
-
 ## Crits
 When you roll a 20 on a d20 attack roll, saving throw, or ability check (before applying any modifiers, bonuses, and penalties), this is referred to as a “natural 20”. Rolling a 1 on a d20 attack roll, saving throw, or ability check (before applying any modifiers, bonuses, and penalties) is referred to as a “natural 1”.
 
@@ -47,40 +47,46 @@ When you roll a 20 on a d20 attack roll, saving throw, or ability check (before
 >
 >**Group Criticals.** When making a group check, a critical success is achieved if all members of the party succeed in their checks, while a critical failure takes place if all members of the party fail.
 
+<br>
 
 ---
 ## Exploding Damage Dice
 When you roll damage for an attack, spell, or ability, and any of the damage dice shows its maximum value (such as a 6 on a d6 or an 8 on a d8), that die explodes. Roll that die one additional time and add the result to the total damage*.*
 
+<br>
 
 ---
 ## Rolling with Emphasis
 **Roll 2d20. Take the result that’s furthest from 10 (the most extreme)**
 This mechanic makes extreme results more likely and “middle of the road” results less likely. It’s a way to make the big, tense moments feel even bigger — when the stakes are high, when the drama’s loud, and when the story calls for something bold. Best used as an alternative to a straight luck check (d20 DC11).
 
+<br>
 
 ---
 ## Miraculous Strike
 If you roll with disadvantage and get at least one Nat 20, everyone around you is inspired by your determination/effort/luck and gets advantage on their next roll.
 
+<br>
 
 ---
 ## GM Inspiration
 The DM may award GM Inspiration for good roleplay, clever ideas, or just straight up cool fucking moments that add to the story.
-When you have Inspiration, which is a d20 die, you can spend it to gain advantage on an ability check, attack roll, or saving throw. You can decide to use it after you roll but before the result is revealed. **You can only have one Inspiration at a time.**
+When you have Inspiration, which is a d20 die, you can spend it to gain advantage on an ability check, attack roll, or saving throw. You can decide to use it after you roll but before the result is revealed.
 
+<br>
 
 ---
 ## Giving Help action
 A Help action can be taken by a character (as an action during combat or any time out of combat) to aid another character in the ability check, attack or saving throw they are trying to do. Mechanically, this means that the helped character can roll this ability with advantage. Either PC will be required to describe and explain how they are helping or how they are being helped. Whether the description or explanation suffices is upon DM's discretion.
 
+<br>
 
 ---
-
 ## Spamming Ability Checks
 A PC may only attempt an ability check once per circumstance. Once you’ve made the roll, accept the outcome—success or failure—and let the story move forward. Let the rolls be meaningful.
 	If the rest of your party are in the same scenario as you, they can attempt the same check once as well.
 
+<br>
 
 ---
 ## Off-Ability Check.
@@ -92,6 +98,7 @@ The GM may call for, or a player may propose, an alternative ability–skill com
 >>Ability Modifier: based on the ability you’re swapping in
 >>Proficiency bonus added only if proficient in the skill
 
+<br>
 
 ---
 ## Critical Mastery.
@@ -99,6 +106,7 @@ When you roll a natural 20 on an skill check, you gain Critical Mastery for that
 You may spend your Critical Mastery to gain advantage on a future check of the same skill.
 You can only hold one Critical Mastery per skill, but you may have multiple Critical Masteries across different skills.
 
+<br>
 
 ---
 ## Incompetence
@@ -111,6 +119,7 @@ If you are Incompetent in a skill, roll checks with disadvantage when using that
 >[!important]
 > Incompetence overrides proficiency — you cannot later gain proficiency or expertise in that skill unless the DM rules a narrative reason for growth or training removes the incompetence.
 
+<br>
 
 ---
 # Rest
@@ -120,6 +129,7 @@ Requires at least **one hour** out of combat or adventuring activity. At the end
 Additionally, recover expended spell slots equal to or less than half your spellcasting level rounded up. See [[#Short rest recovery]].
 	`Long rest removed: any rest taken, regardless of length, is considered a short rest unless it satisfies all the requirements of a safe rest. Also applies interrupted safe rests.`
 
+<br>
 
 ---
 ## Safe Rest
@@ -128,6 +138,7 @@ Replaces "long rest". Requires at least 8 hours out of combat or adventuring act
 - recover up to your maximum HP
 - remove 1 level of exhaustion
 
+<br>
 
 ---
 ## Downtime
@@ -170,7 +181,7 @@ Some activities laid out from [[Xanathar's Guide to Everything\|Xanathar's Guide
 >>[!check]- **Work**
 >>When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character’s attempt to find temporary work, the quality and wages of which are difficult to predict.
 
-
+<br>
 
 ---
 # Combat/Action Economy
@@ -182,19 +193,22 @@ We're going a tiny bit easier on spellcasting and ammunition. Spells in this cam
 When you roll a natural 20 on an attack roll, your attack hits with extra force. Roll the attack's regular damage and add maximum damage dice.
 	**Splash Damage.** After applying your critical hit damage, choose another enemy within 5 feet of your original target. That creature takes damage equal to half of the total rolled damage (rounded down).
 
----
+<br>
 
+---
 ## Weapon Mastery
 You can only use [[Weapons#Mastery Properties\|Weapon Mastery]] properties a number of times equal to your proficiency bonus. You regain all expended uses when you finish a short or long rest.
 #Barbarian #Fighter #Paladin #Ranger #Rogue 
 
----
+<br>
 
+---
 ## Potions as Bonus Action
 Instead of an action, drinking a healing potion can be a bonus action.
 
----
+<br>
 
+---
 ## 1-Action Cantrips as Bonus Actions/Reactions
 1-action cantrips that are often treated as “quick buffs” or “fast reactions” in play (and that some DMs let you bend into bonus action/reaction territory, depending on flavor or homebrew flexibility).
 
@@ -211,6 +225,7 @@ Instead of an action, drinking a healing potion can be a bonus action.
 | Thaumaturgy      | Voice, tremors, eye-flare, doors slam.                                        |                                                                                                                     |
 | True Strike      | Gain advantage on your first attack roll against the target on your next turn |                                                                                                                     |
 
+<br>
 
 ---
 # Spellcasting
@@ -220,8 +235,9 @@ Recover expended spell slots equal to or less than half your spellcasting level 
 	`Note: in PHB, Arcane Recovery is available to wizards only and only once per long rest. This mechanic changes that.`
 	#Wizard #Artificer #Cleric #Druid #Paladin #Spellcasting
 
----
+<br>
 
+---
 ## Revivify
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point and 1 level of exhaustion. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
@@ -229,8 +245,9 @@ This spell requires material equal to 300 G on the caster's person to complete.
 	`Note: added exhaustion mechanic and reaffirmed material requirement.`
 	#Artificer #Cleric #Druid #Paladin #Ranger
 
----
+<br>
 
+---
 # Flavor
 
 
@@ -238,6 +255,7 @@ This spell requires material equal to 300 G on the caster's person to complete.
 
 
 
+<br>
 
 ---
 # WIP Homebrews
@@ -266,13 +284,4 @@ Bedroom too crowded (-1)
 Critical fail on an attack or ability check (-1)
 Did a death save (-2)
 Betrayal (-1)
-
-
-## Rations
-- Players must consume Rations (i.e. eat food) everyday, or else suffer **Starvation**. Additionally, consuming required rations restore 1d4 HP.
-- **Starvation**. After 24 hours without food, they must succeed on a CON saving throw DC 15 or gain 1 level of exhaustion. Each following day without food they make the same saving throw or add another level of exhaustion.
-	- Ration required per character per day is equal to their CON modifier, minimum of 1.
-	- PC inventory can only hold up to 4 times the ration they require.
-
-
 
