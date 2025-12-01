@@ -4,9 +4,10 @@
 
 
 # **Hello again! I'm Sigrid :)**
+<br>
 
 
-![DSC_3698blue.jpg|00|278x336](/img/user/media/DSC_3698blue.jpg)
+![DSC_3698blue.jpg|00|155x187](/img/user/media/DSC_3698blue.jpg)
 
 Shout out to my parents who gifted me a cool name for my birthday.
 
@@ -18,11 +19,11 @@ As you can imagine, it's really the role of the dungeon master that drew me in a
 
 So that's me!
 
-I have 3 kids - Ninja, Mage and Jinx.
+I have 3 kids - 
 
 I am a headhunter by day - so talking to strangers on camera is not only normal to me but is also really important. I've been in enough Zoom meetings to definitively say it's easier to connect with other people when you actually sense that there is another person at the end of this line, and not just me talking to a wall.
 
-Friday and Saturday nights I swap out the ***M*** in *DM* (lmao), and I'm usually out playing gigs and therefore generally avoid scheduling anything. But of course feel free to send a message and I will reply as soon as I can :)
+Friday and Saturday nights I swap out the ***M*** in *DM*, and I'm usually out playing gigs and therefore generally avoid scheduling anything. But of course feel free to send a message and I will reply as soon as I can :)
 
 Here's to an awesome time storytelling with you!
 ##### ***Sigrid***
