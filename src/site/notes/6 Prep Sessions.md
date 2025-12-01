@@ -5,6 +5,8 @@
 
 <br>
 
+![image-7.png|700](/img/user/media/image-7.png)
+
 ---
 Before we jump into the game, it’s important to have a quick chat about how you like to play and what kind of story you want to be part of. This helps make sure everyone’s on the same page, the game flows smoothly, and the adventure fits your group’s style from the very start.
 
@@ -61,6 +63,7 @@ Think of this as the “ground rules” conversation — it keeps the game fun, 
  - **Group Reset** (for one-shots or short arcs) – If the death changes the party dynamic too much, we may start a new arc with a fresh group.
 
 <br>
+![image-6.png|700](/img/user/media/image-6.png)
 
 ---
 ## Campaign Features
@@ -84,17 +87,7 @@ Before we lock anything in, I’d love to hear what sparks your interest. Are th
 |               | Social puzzles          |                  | Sci-fi                                      | Dream                            |
 
 
-<br>
 
----
-## Setting Mutual Expectations
-- Homebrews on 5e rules.
-- Be responsible (character sheet, dice rolls)
-- What happens if someone can’t make the session? (Reschedule, skip, run a side scene, etc.
-- What are our expectations for showing up on time and communicating absences?
-
-
- 
 
 <br><br><br><br><br>
 
