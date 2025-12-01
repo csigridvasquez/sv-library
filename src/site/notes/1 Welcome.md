@@ -3,13 +3,13 @@
 ---
 
 
-<br><br><br><br><br><br>
+<br>
 ![image-5.png|679x461](/img/user/media/image-5.png)
 
 ---
 # **Hello!**
 
-## Welcome to my Digital Library :OcHeartFill24:
+## Welcome to my Digital Library 🧡
 
 This doc is just a quick look at what campaign prep with me usually feels like. It’s mainly here so new joiners know what to expect before we start putting a campaign together.
 
