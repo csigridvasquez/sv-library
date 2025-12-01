@@ -64,21 +64,24 @@ Think of this as the “ground rules” conversation — it keeps the game fun, 
 
 ---
 ## Campaign Features
+This is where we start thinking about the kind of adventure you want to dive into. I’ve got a table of genres and campaign elements we can mix and match, and a few ideas already in mind.
 
-| Style of Play | Game Mechanics          | Social Mechanics | Genre                       | Setting          |
-| ------------- | ----------------------- | ---------------- | --------------------------- | ---------------- |
-| Heroes        | Dungeon crawl           | Romance          | High fantasy                | Tribal           |
-| Unseen Hands  | Hexcrawl                | PVP conflict     | Low fantasy/magical realism | Medieval         |
-| Witnesses     | Mystery                 | PVP combat       | Western                     | Western/Frontier |
-| Mercenaries   | Resource Management     | Rumors           | Crime/Thriller              | Urban            |
-| Survivors     | Conquest                | Secrets          | Action/pulp adventure       | Space            |
-| Intrigue      | Crafting                | Reputation       | Isekai                      | Dystopian        |
-|               | Timer                   | Factions         | Xeno                        | Post apocalyptic |
-|               | Bastion/home base       |                  | Romance                     | Nautical         |
-|               | Ships and large vessels |                  | Contemporary                | Wasteland        |
-|               | Downtime                |                  | Detective/Mystery           | Regency          |
-|               | Tactical Warfare        |                  | Historical                  | Megacity         |
-|               | Social puzzles          |                  | Scifi                       | Dream            |
+Before we lock anything in, I’d love to hear what sparks your interest. Are there particular themes, tones, or story hooks that sound exciting to you? Your input helps shape the game from the very start.
+
+| Style of Play | Game Mechanics          | Social Mechanics | Genre                                       | Setting                          |
+| ------------- | ----------------------- | ---------------- | ------------------------------------------- | -------------------------------- |
+| Heroes        | Dungeon crawl           | Romance          | High fantasy                                | Tribal                           |
+| Unseen Hands  | Hexcrawl                | PVP conflict     | :RiPushpinFill: Low fantasy/magical realism | Medieval                         |
+| Witnesses     | Mystery                 | PVP combat       | Western                                     | Western/Frontier                 |
+| Mercenaries   | Resource Management     | Rumors/secrets   | Crime/Thriller                              | :RiPushpinFill: Urban            |
+| Survivors     | Conquest                | Reputation       | :RiPushpinFill: Action/pulp adventure       | Space                            |
+| Intrigue      | Crafting                | Factions         | Isekai                                      | Dystopian                        |
+|               | Timer                   |                  | :RiPushpinFill: Xenofiction                 | :RiPushpinFill: Post apocalyptic |
+|               | Bastion/home base       |                  | Romance                                     | Nautical                         |
+|               | Ships and large vessels |                  | :RiPushpinFill: Contemporary                | :RiPushpinFill: Wasteland        |
+|               | Downtime                |                  | Detective/Mystery                           | Regency                          |
+|               | Tactical Warfare        |                  | Historical                                  | Megacity                         |
+|               | Social puzzles          |                  | Sci-fi                                      | Dream                            |
 
 
 <br>
