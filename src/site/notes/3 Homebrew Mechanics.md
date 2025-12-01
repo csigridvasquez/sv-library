@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-homebrew-mechanics/","title":"Homebrews","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/3-homebrew-mechanics/","title":"Homebrews","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Homebrews: Rules & Mechanics

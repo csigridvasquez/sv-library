@@ -4,6 +4,7 @@
 
 
 <br>
+
 ![image-5.png|679x461](/img/user/media/image-5.png)
 
 ---
@@ -13,7 +14,7 @@
 
 This doc is just a quick look at what campaign prep with me usually feels like. It’s mainly here so new joiners know what to expect before we start putting a campaign together.
 
-Your actual game will come out of our [[6 Prep Sessions\|prep chats]], might apply most of the [[3 Homebrew Mechanics\|3 Homebrew Mechanics]], and follow the [[PC and Party\|Character Creation]] guidelines in this document.
+Your actual game will come out of our [[6 Prep Sessions\|prep chats]], might apply most of the [[3 Homebrew Mechanics\|3 Homebrew Mechanics]], and follow the [[4 PC and Party\|Character Creation]] guidelines in this document.
 
 As always, any questions, please reach out!
 ***Sigrid***
