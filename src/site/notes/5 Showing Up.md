@@ -7,7 +7,7 @@
 ![image-8.png|700](/img/user/media/image-8.png)
 
 # Showing Up
-**This section isn’t about rules — it’s about how we make the game enjoyable for everyone. Showing up means being present, listening, reacting, and caring about what’s happening at the table. The more heart you bring, the more the world and this game will give back.
+**This section isn’t about rules — it’s about how we make the game enjoyable for everyone. Showing up means being present, listening, reacting, and caring about what’s happening at the table. The more heart you bring, the more the world and this game will give back.**
 
 ---
 
