@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-showing-up/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/5-showing-up/","title":"Showing Up","dgHomeLink":true}
 ---
 
 
