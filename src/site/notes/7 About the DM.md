@@ -25,6 +25,14 @@ That said, I look forward to the awesome story we'll write together!
 ##### ***Sigrid***
 
 <br>
+<br>
+
+---
+Find me on the internet!
+**:LiInstagram: @xosigrid**
+
+<br>
+<br>
 
 ![image-13.png](/img/user/media/image-13.png)
 
