@@ -35,7 +35,7 @@ Keep your mic on or ready to unmute quickly when it’s your turn, or when you�
 ## Be Fully Here  
 Avoid multitasking. If you’re not fully available, it’s perfectly okay to reschedule. I’d much rather have everyone present and engaged later than half here and distracted now. We’re here to tell a story together — and that only works if we’re all actually _together_.
 
-<br>
+<br><br>
 
 ![image-10.png|700](/img/user/media/image-10.png)
 
@@ -44,12 +44,14 @@ Avoid multitasking. If you’re not fully available, it’s perfectly okay to re
 **This is about keeping the story flowing and making sure everyone gets their moments. When we’re in the game, we’re co-authors of something we’ll only ever experience once. A little structure helps keep that magic alive.'**
 
 ---
+
 ## Campaign Info
 While this campaign is mostly **homebrewed**, we might use pre-made campaigns (retextured, of course) depending on factors, so please let me know if there are specific pre-mades you would like for us to avoid.
 
 <br>
 
 ---
+
 ## Rulings, Not Rules.
 We’re using D&D 5e (2014/2024) as our foundation, but our real goal is fun and flow, not legal debates. If something’s unclear, I’ll make a quick ruling to keep the story moving. We can always revisit it after the session.
 
@@ -115,8 +117,9 @@ Everyone gets to decide how their own character acts. Try not to pressure or cor
 ## Metagaming
 You don’t need to stress about “doing it wrong.” If you make decisions as your character — even if they’re messy, funny, or risky — it’s very welcome if it makes the story more fun for everyone at the table. Metagaming (using player knowledge your character doesn’t have) is fine if you slip into it, but leaning into roleplay makes the game shine.
 
-<br><br><br><br><br>
+<br><br>
 
+![image-4.png|700](/img/user/media/image-4.png)
 
 ---
 # Above the Table

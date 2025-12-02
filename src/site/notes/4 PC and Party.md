@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/4-pc-and-party/","title":"Your Character","dgHomeLink":true}
 ---
 
-![image-4.png|700](/img/user/media/image-4.png)
+
+
+![image-11.png|662x463](/img/user/media/image-11.png)
+
 # Character Creation & Party Building 
 The choices you make — your skills, flaws, goals, and bonds — shape the story we tell together. Build a team you want to see grow, clash, and survive side by side.
 
@@ -56,11 +59,15 @@ Your ability scores define your strengths, weaknesses, and how you stand out in 
 Your characters are more than their stats — they’re people with histories, habits, and hopes. Take a bit of time to figure out who they were before the story begins, and what drives them forward now.`
 
 ---
-## Personality & Character
+## Bring Me To Life (Wake Me Up)
+Once you’ve got the basics and mechanics down, the fun part is figuring out how your character actually _shows up_ in the world. Are they bold or cautious? Do they crack jokes under stress or go quiet when things get tense? Maybe they’re nosy, stoic, dramatic, stubborn, or unexpectedly tender. These little choices bring your character to life far more than any stat block ever will.
 
->[!question] Who are you?
+And don’t worry — you’re not expected to launch into full-on Gawad Urian mode. If you’re reading this document, then we’re still early in the process, which means we’re _not_ aiming for huge dramatic performances or unleashing your inner theatre kid on day one. I, as your DM, do a lot of light assisting — prompts, gentle nudges, in-world questions — to help you ease into roleplay at a pace that feels comfortable.
 
-<br>
+The goal isn’t “perfect acting.” It’s simply letting your character feel **real** enough that our game world feels a bit more **alive**. You bring the personality in whatever way feels natural; I’ll help you settle into it along the way.
+
+>[!tip] “Roleplay isn’t acting. It’s just reacting — in character.”
+
 
 ---
 ## Relationships
@@ -74,7 +81,7 @@ Bonds and rivalries make the group dynamic more real — and give everyone somet
 > 
 > ***Reminder to check in with your fellow PC and get this greenlit before laying it as canon.***
 
-> [!dmnote] DM your DM
+> [!check] DM your DM
 > Remember, this is ***collaborative storytelling***. If your backstory or ideas involve another player’s character, talk about it first — either with them or with the DM — before revealing it in play. Surprises are great, but we want them to _add_ to the story, not disrupt it.
 > 
 > Everyone loves a good plot twist — the DM is here to help you make it land just right.
@@ -87,6 +94,9 @@ Bonds and rivalries make the group dynamic more real — and give everyone somet
 Your character doesn’t need a full novel — just a few key anchors that help _you_ understand what makes them tick. Some questions you can ask yourself:
 
 > [!question] Tell me more about you
+> - What’s a little habit or quirk they’ve had since childhood?
+> - Who’s someone they miss, owe, or can’t stop thinking about?
+>   What’s something they believe in deeply — even if it makes life harder?
 
 Your answers don’t need to be long — just honest. These small details make the world feel alive and help your choices in play feel grounded.
 

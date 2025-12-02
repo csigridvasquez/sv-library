@@ -4,14 +4,9 @@
 
 
 # **Hello again! I'm Sigrid :)**
-<br>
-
-
-![DSC_3698blue.jpg|00|155x187](/img/user/media/DSC_3698blue.jpg)
 
 Shout out to my parents who gifted me a cool name for my birthday.
-
-The title "DM" is fairly new to me, I haven't really been in this hobby for long. I bought a Dropout subscription in June 2025 because I wanted to binge all of ***Um, Actually***, and discovered ***Dimension 20*** from there. Needless to say I just fell into the hole, daydreaming about what kinds of stories and character builds I'd play. I wrote as part of my intro in a D&D discord community:
+he title "DM" is fairly new to me, I haven't really been in this hobby for long. I bought a Dropout subscription in June 2025 because I wanted to binge all of ***Um, Actually***, and discovered ***Dimension 20*** from there. Needless to say I just fell into the hole, daydreaming about what kinds of stories and character builds I'd play. I wrote as part of my intro in a D&D discord community:
 
 > I'm incredibly interested in the writing and the gamemaking parts - so much so na only a few days in consuming my first D&D media (dimension20 baby!), I already started writing like a thing to get my friends and brother to play. I'm thinking the easiest genre to get them to play is def a zombie game, so i started just poring over that - lore, mechanics and all - before finding out about whole other established systems ![🤣](https://discord.com/assets/e5bddb2a9171637d.svg) Then I learned the word homebrew ![😁](https://discord.com/assets/7fff0841b901c035.svg) addtl: as a craft girlie of course I am DIY-ing my DM box and planning to use perlers for minis for one of my games ![😄](https://discord.com/assets/58a76b2430663605.svg) 
 
@@ -27,3 +22,10 @@ Friday and Saturday nights I swap out the ***M*** in *DM*, and I'm usually out p
 
 Here's to an awesome time storytelling with you!
 ##### ***Sigrid***
+
+<br>
+![image-13.png|700](/img/user/media/image-13.png)
+
+
+<br>
+
