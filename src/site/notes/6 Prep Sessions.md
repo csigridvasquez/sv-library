@@ -64,6 +64,7 @@ Think of this as the “ground rules” conversation — it keeps the game fun, 
  - **Group Reset** (for one-shots or short arcs) – If the death changes the party dynamic too much, we may start a new arc with a fresh group.
 
 <br>
+
 ![image-6.png|700](/img/user/media/image-6.png)
 
 ---
@@ -72,20 +73,20 @@ This is where we start thinking about the kind of adventure you want to dive int
 
 Before we lock anything in, I’d love to hear what sparks your interest. Are there particular themes, tones, or story hooks that sound exciting to you? Your input helps shape the game from the very start.
 
-| Style of Play | Game Mechanics          | Social Mechanics | Genre                                       | Setting                          |
-| ------------- | ----------------------- | ---------------- | ------------------------------------------- | -------------------------------- |
-| Heroes        | Dungeon crawl           | Romance          | High fantasy                                | Tribal                           |
-| Unseen Hands  | Hexcrawl                | PVP conflict     | :RiPushpinFill: Low fantasy/magical realism | Medieval                         |
-| Witnesses     | Mystery                 | PVP combat       | Western                                     | Western/Frontier                 |
-| Mercenaries   | Resource Management     | Rumors/secrets   | Crime/Thriller                              | :RiPushpinFill: Urban            |
-| Survivors     | Conquest                | Reputation       | :RiPushpinFill: Action/pulp adventure       | Space                            |
-| Intrigue      | Crafting                | Factions         | Isekai                                      | Dystopian                        |
-|               | Timer                   |                  | :RiPushpinFill: Xenofiction                 | :RiPushpinFill: Post apocalyptic |
-|               | Bastion/home base       |                  | Romance                                     | Nautical                         |
-|               | Ships and large vessels |                  | :RiPushpinFill: Contemporary                | :RiPushpinFill: Wasteland        |
-|               | Downtime                |                  | Detective/Mystery                           | Regency                          |
-|               | Tactical Warfare        |                  | Historical                                  | Megacity                         |
-|               | Social puzzles          |                  | Sci-fi                                      | Dream                            |
+| Style of Play | Game Mechanics          | Social Mechanics | Genre                       | Setting          |
+| ------------- | ----------------------- | ---------------- | --------------------------- | ---------------- |
+| Heroes        | Dungeon crawl           | Romance          | High fantasy                | Tribal           |
+| Unseen Hands  | Hexcrawl                | PVP conflict     | Low fantasy/magical realism | Medieval         |
+| Witnesses     | Mystery                 | PVP combat       | Western                     | Western/Frontier |
+| Mercenaries   | Resource Management     | Rumors/secrets   | Crime/Thriller              | Urban            |
+| Survivors     | Conquest                | Reputation       | Action/pulp adventure       | Space            |
+| Intrigue      | Crafting                | Factions         | Isekai                      | Dystopian        |
+|               | Timer                   |                  | Xenofiction                 | Post apocalyptic |
+|               | Bastion/home base       |                  | Romance                     | Nautical         |
+|               | Ships and large vessels |                  | Contemporary                | Wasteland        |
+|               | Downtime                |                  | Detective/Mystery           | Regency          |
+|               | Tactical Warfare        |                  | Historical                  | Megacity         |
+|               | Social puzzles          |                  | Sci-fi                      | Dream            |
 
 
 
