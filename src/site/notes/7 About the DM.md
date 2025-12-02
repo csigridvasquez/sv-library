@@ -17,11 +17,11 @@ So that's me!
 
 I have 3 kids - Ninja, Mage and Jinx. 🐈
 
-I am a headhunter by day - so talking to strangers on camera is not only normal to me but is also really important. I've been in enough Zoom meetings to definitively say it's easier to connect with other people when you actually sense that there is another person at the end of this line, and not just me talking to a wall.
+I’m a headhunter by day, so talking to strangers on camera (lol) is second nature — and a big part of my job. I've been in enough Zoom meetings to definitively say it's easier to connect with other people when you actually sense that there is another person at the end of this line, and not just me talking to a wall.
 
-Friday and Saturday nights I swap out the ***M*** in *DM*, and I'm usually out playing gigs and therefore generally avoid scheduling anything. But of course feel free to send a message and I will reply as soon as I can :)
+Friday and Saturday nights I swap out the ***M*** in *DM*, and I'm usually out playing gigs. More recently though I'm choosing to stay home and it's been great and refreshing honestly; and filling that time with DM prep stuff instead has been enjoyable.
 
-Here's to an awesome time storytelling with you!
+That said, I look forward to the awesome story we'll write together!
 ##### ***Sigrid***
 
 <br>
