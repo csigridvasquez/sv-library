@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-about-the-dm/","title":"Hello,  I'm Sigrid!","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/7-about-the-dm/","title":"Hello from your DM!","dgHomeLink":true}
 ---
 
 
