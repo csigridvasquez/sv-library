@@ -25,8 +25,8 @@ Here's to an awesome time storytelling with you!
 ##### ***Sigrid***
 
 <br>
-![image-13.png|700](/img/user/media/image-13.png)
+
+![image-13.png](/img/user/media/image-13.png)
 
 
-<br>
 
