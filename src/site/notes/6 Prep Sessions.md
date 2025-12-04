@@ -74,23 +74,30 @@ This is where we start thinking about the kind of adventure you want to dive int
 
 Before we lock anything in, I’d love to hear what sparks your interest. Are there particular themes, tones, or story hooks that sound exciting to you? Your input helps shape the game from the very start.
 
-| Style of Play | Game Mechanics          | Social Mechanics | Genre                           | Setting          |
-| ------------- | ----------------------- | ---------------- | ------------------------------- | ---------------- |
-| Heroes        | Dungeon crawl           | Romance          | High fantasy                    | Tribal           |
-| Unseen Hands  | Hexcrawl                | PVP conflict     | ==Low fantasy/magical realism== | Medieval         |
-| Witnesses     | Mystery                 | PVP combat       | Western                         | Western/Frontier |
-| Mercenaries   | Resource Management     | Rumors/secrets   | Crime/Thriller                  | Urban            |
-| Survivors     | Conquest                | Reputation       | ==Action/pulp adventure==       | Space            |
-| Intrigue      | Crafting                | Factions         | Isekai                          | Dystopian        |
-|               | Timer                   |                  | ==Xenofiction==                 | Post apocalyptic |
-|               | Bastion/home base       |                  | Romance                         | Nautical         |
-|               | Ships and large vessels |                  | Contemporary                    | Wasteland        |
-|               | Downtime                |                  | Detective/Mystery               | Regency          |
-|               | Tactical Warfare        |                  | ==Historical==                  | Megacity         |
-|               | Social puzzles          |                  | ==Sci-fi==                      | Dream            |
 
+| Style of Play |              |             |           |           |
+| ------------- | ------------ | ----------- | --------- | --------- |
+| Heroes        | Unseen Hands | Mercenaries | Survivors | Intrigues |
 
+| Game Mechanics              |                    |                        |                |          |
+| --------------------------- | ------------------ | ---------------------- | -------------- | -------- |
+| Dungeon Crawl               | Hexcrawl           | Resource<br>Management | Conquest       | Crafting |
+| Bastions /<br>Base building | Ships &<br>Vessels | Tactical Warfare       | Social Puzzles | Timers   |
 
+| Social Mechanics |              |            |                |
+| ---------------- | ------------ | ---------- | -------------- |
+| Romance          | PVP conflict | PVP combat | Rumors/secrets |
+| Reputation       | Factions     |            |                |
+
+| Genre/Setting                   |                  |                          |             |           |
+| ------------------------------- | ---------------- | ------------------------ | ----------- | --------- |
+| High fantasy                    | Western          | Sci-fi                   | Xenofiction |           |
+| Low fantasy/<br>magical realism | Crime/Thriller   | Action/pulp<br>Adventure | Historical  |           |
+|                                 | Romance          |                          | Isekai      |           |
+|                                 |                  |                          |             |           |
+| Tribal                          | Medieval         | Urban                    | Space       | Dystopian |
+| Gunpowder Era                   | Post apocalyptic | Nautical                 | Wasteland   | Regency   |
+| Megacity                        | Dream/Wild Magic |                          |             |           |
 
 <br><br><br><br><br>
 
