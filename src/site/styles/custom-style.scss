@@ -82,26 +82,50 @@ body {
     font-size: 0.9rem;
     font-weight: 500;
     color: #bbb;
-  } /*left sidebar*/
-
-  /*LEFT SIDEBAR*/
-.filetree-sidebar {
-  width: 320px !important;
-}
+  }
   
-.filetree-sidebar .file-item svg {
-  display: none;
-}
+  /*left sidebar*/
 
-.filetree-sidebar .file-item .title::before {
-  font-family: 'Material Symbols Outlined';
-  content: 'map_pin_heart';
-  font-size: 18px;
-  margin-right: 0.4rem;
-  vertical-align: middle;
-  color: #B95750;
-}
+.filetree-sidebar {
+  width: 320px; /* adjust sidebar width */
+  min-width: 320px;
+  max-width: 320px;
 
+  /* File item text */
+  .file-item .title {
+    font-family: 'Rhodium Libre', serif;
+    font-size: 0.95rem;
+    color: #ddd;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Current page bold + highlight */
+  .file-item.is-active .title {
+    font-weight: 700;
+    color: #fff;
+  }
+
+  /* Hide default SVG icons */
+  .file-item svg {
+    display: none;
+  }
+
+  /* Insert custom Material Icon before title */
+  .file-item .title::before {
+    font-family: 'Material Symbols Outlined';
+    content: 'map_pin_heart';
+    font-size: 18px;
+    margin-right: 0.4rem;
+    vertical-align: middle;
+    color: #aaa; /* icon color */
+  }
+
+  /* Optional: hover effect for file items */
+  .file-item:hover .title {
+    color: #fff;
+  }
 
   
 } /*body*/
