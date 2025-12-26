@@ -9,12 +9,14 @@
 # Character Creation & Party Building 
 The choices you make — your skills, flaws, goals, and bonds — shape the story we tell together. Build a team you want to see grow, clash, and survive side by side.
 
+>[!tip] Check out the more extensive Character Creation guide [[Character Creation 201\|here.]]
+
 ---
 ## Species, classes and subclasses:
 - Source from [5e 2024](http://dnd2024.wikidot.com) or [5e 2014](https://dnd5e.wikidot.com)
 	 **Homebrew and Unearthed Arcana:** We’ll mostly stick to official 5e books so everyone’s on the same page; but if you insist on custom content, the classes and feats can be worked out – **let’s talk!** I’m open to looking it over, as long as it’s made for 5e and fits the vibe of the campaign.
 
-> [!dmnote] Level Progression
+> [!warning|no-icon] Level Progression
 > Follow the leveling system of the source your class comes from. For example, you can’t take a 5e (2014) class and level it using 5e (2024) rules, even if the class names are the same. Applies to feats as well.
 
 <br>
@@ -47,7 +49,7 @@ Your ability scores define your strengths, weaknesses, and how you stand out in 
 	Roll 4d6 and remove the die with the lowest value. Add the remaining dice and record it. Do this 6 times and assign to ability scores.
 	Risky - and can create power gaps. A high risk, high reward situation.
 
-> [!dmnote] Overpowered/underpowered?
+> [!question] Overpowered/underpowered?
 > If you are rolling and you roll ridiculously well and feel like that might be too overpowered or just not right for your character, let the DM know and they can grant you a reroll. If you roll really poorly, you have the option to revert to the standard array.
 
 <br><br>
@@ -75,7 +77,7 @@ Talk as a group about how much your characters already know each other. In this 
 
 Bonds and rivalries make the group dynamic more real — and give everyone something to play off when the story begins.
 
->[!tldr] **With other PCs**
+>[!tldr|no-title] **With other PCs**
 > **Describe your relationship with the other PCs.**
 > If you have met them and you know each other, describe a recent interaction you had with them. It doesn't have to be grand interaction; it could be as simple as being introduced to each other at a gathering and doing small talk and not much else, or you may have bought something from them.
 > 
@@ -93,7 +95,7 @@ Bonds and rivalries make the group dynamic more real — and give everyone somet
 
 Your character doesn’t need a full novel — just a few key anchors that help _you_ understand what makes them tick. Some questions you can ask yourself:
 
-> [!question] Tell me more about you
+> [!question|no-title] Tell me more about you
 > - What’s a little habit or quirk they’ve had since childhood?
 > - Who’s someone they miss, owe, or can’t stop thinking about?
 >   What’s something they believe in deeply — even if it makes life harder?

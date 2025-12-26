@@ -29,6 +29,12 @@
  I've included a mix of stuff that are essentially buffs and nerfs (or both!) compared to 5e rules and mechanics - let me know what you think!
 
 
+| Quick reference |                    |                            |                   |
+| --------------- | ------------------ | -------------------------- | ----------------- |
+| [[#Crits]]      | [[#Rest\|Resting]] | [[#Combat/Action Economy]] | [[#Spellcasting]] |
+
+
+
 ![image-2.png](/img/user/media/image-2.png)
 
 ---
@@ -92,7 +98,7 @@ A PC may only attempt an ability check once per circumstance. Once you’ve made
 ## Off-Ability Check.
 The GM may call for, or a player may propose, an alternative ability–skill combination when it better represents the action being attempted. The goal is to let the description of your action drive the mechanics—not the other way around. **Decide ability first, skill second.**
 
->[!example]- **For example: PC wants to intimidate via their athletic prowess.**
+>[!example]- For example: PC wants to intimidate via their athletic prowess.
 > Roll STR (Intimidation), not Athletics (since Athletics is about climbing, grappling, etc.)	
 >> [!todo]- Resolution: Roll: d20 + ability modifier + proficiency bonus
 >>Ability Modifier: based on the ability you’re swapping in
@@ -195,7 +201,7 @@ We're going a tiny bit easier on spellcasting and ammunition. Spells in this cam
 ## Attack Crits
 When you roll a natural 20 on an attack roll, your attack hits with extra force. Roll the attack's regular damage and add maximum damage dice.
 
-#### Splash Damage.
+## Splash Damage.
 After applying your critical hit damage, choose another enemy within 5 feet of your original target. That creature takes damage equal to half of the total rolled damage (rounded down).
 
 <br>
@@ -223,7 +229,7 @@ Instead of an action, drinking a healing potion can be a bonus action.
 <br>
 
 ---
-## 1-Action Cantrips as Bonus Actions/Reactions
+## One-Action Cantrips as Bonus Actions/Reactions
 1-action cantrips that are often treated as “quick buffs” or “fast reactions” in play (and that some DMs let you bend into bonus action/reaction territory, depending on flavor or homebrew flexibility).
 
 | Cantrip          | What It Does                                                                  | Additional Tweaks                                                                                                   |
