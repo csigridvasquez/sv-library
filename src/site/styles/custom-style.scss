@@ -1,13 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bowlby+One&family=McLaren&display=swap');
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-}
+  /*font stuff*/
+    .content {
+    /* Body content */
+    font-family: 'McLaren', serif;
+    font-size: 16px;
+    line-height: 1.65;
+
+    h1 {
+     font-family: 'Bowlby One',;
+     font-weight: 200; /* force override */
+     font-size: 4.2rem;
+     color: #284B63;
+      
+    }
+
+    h2 {
+      font-family: 'Bellota', ital;
+      font-weight: 700;
+      font-size: 1.9rem;
+    }
+
+     h3 {
+      font-family: 'Bellota', ital;
+      font-weight: 400;
+      font-size: 1.9rem;
+    }
+      
+    h4 {
+      font-family: 'McLaren', serif;
+      font-weight: 400;
+      font-size: 1.4rem;
+    }
+
+          /* Italic */
+    em {
+      color: #704C5E;
+    }
+
+    /* Bold */
+    strong {
+      color: #704C5E;
+    }
+
+    /* Bold + Italic */
+    strong em,
+    em strong {
+      color: #704C5E;
+    }
+  } /*content*/
+  
+  /* RIGHT SIDEBAR */
+  .sidebar {
+    width: 350px !important;
+    font-size: 0.95rem;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+  }
+  
+  .sidebar .file-item .title {
+    font-size: 0.95rem;
+    color: #ddd;
+    font-weight: 500;
+  }
+
+  .sidebar .file-item svg {
+    width: 18px;
+    height: 18px;
+    stroke: #aaa;
+  }
+
+  .sidebar .folder-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #bbb;
+  } /*left sidebar*/
+
+  
+
+  
+} /*body*/
