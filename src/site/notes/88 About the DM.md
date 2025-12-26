@@ -15,7 +15,7 @@ As you can imagine, it's really the role of the dungeon master that drew me in a
 
 So that's me!
 
-I have 3 kids - Ninja, Mage and Jinx. 🐈
+I have 3 cat children - Ninja, Mage and Jinx. 🐈
 
 I’m a headhunter by day, so talking to strangers on camera (lol) is second nature — and a big part of my job. I've been in enough Zoom meetings to definitively say it's easier to connect with other people when you actually sense that there is another person at the end of this line, and not just me talking to a wall.
 
@@ -31,7 +31,6 @@ That said, I look forward to the awesome story we'll write together!
 Find me on the internet!
 **:LiInstagram: @xosigrid**
 
-<br>
 <br>
 
 ![image-13.png](/img/user/media/image-13.png)

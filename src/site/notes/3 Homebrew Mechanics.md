@@ -33,6 +33,7 @@
 | --------------- | ------------------ | -------------------------- | ----------------- |
 | [[#Crits]]      | [[#Rest\|Resting]] | [[#Combat/Action Economy]] | [[#Spellcasting]] |
 
+<br><br>
 
 
 ![image-2.png](/img/user/media/image-2.png)
@@ -217,11 +218,11 @@ You can only use [[Weapons#Mastery Properties\|Weapon Mastery]] properties a num
 ## Revised Potions
 A small buff to potions:
 
-| Type of Potion             | Dice    |
-| -------------------------- | ------- |
-| Potion of Lesser Healing   | 3d6     |
-| Potion of Greater Healing  | 5d6     |
-| Potion of Superior Healing | 8d6 + 2 |
+|     | Type of Potion             |     | Dice    |     |
+| --- | -------------------------- | --- | ------- | --- |
+|     | Potion of Lesser Healing   |     | 3d6     |     |
+|     | Potion of Greater Healing  |     | 5d6     |     |
+|     | Potion of Superior Healing |     | 8d6 + 2 |     |
 
 >[!tip] Potions as a Bonus Action
 Instead of an action, drinking a healing potion can be a bonus action.

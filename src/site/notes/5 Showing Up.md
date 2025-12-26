@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-showing-up/","title":"Showing Up","dgHomeLink":true}
 ---
 
-
+<br>
 
 ![image-8.png|700](/img/user/media/image-8.png)
 

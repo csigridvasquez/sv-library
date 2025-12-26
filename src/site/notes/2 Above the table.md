@@ -6,9 +6,10 @@
 <br>
 
 ![image.png](/img/user/media/image.png)
+ <br>
 
----
 # The Big Picture - A Living World
+---
 
 The world you’re stepping into isn’t an empty map — it’s got weather, weird creatures, old ruins, busy towns, and people with their own plans. It doesn’t revolve around the party, but it _does_ react to you. Your **choices**, **priorities**, and **vibe** all help shape what this world becomes.
 
@@ -21,8 +22,8 @@ None of these are “*better*” than the others. Your group’s natural style w
 
 <br>
 
----
 # Roleplaying
+---
 
 This campaign leans hard into character moments. Combat is cool, but the real magic happens when your character **_feels_** like a person — someone with fears, dreams, weird habits, soft spots, and hot-headed impulses. The story grows out of how you react, connect, argue, joke around, and make choices in the moment.
 
@@ -34,8 +35,8 @@ Why? Because those small, genuine moments help everyone feel connected. They bui
 
 <br>
 
----
 # Story-Forward, Player-Lead
+---
 
 There’s no fixed path here and definitely no “correct” way to play. You and your party decide what matters — whether that’s wandering the wilds, solving odd mysteries, getting tangled in politics, or trying to build something meaningful out in the frontier. The campaign moves in the direction _you_ push it.
 
@@ -47,9 +48,11 @@ My job is to build a world that responds to whatever you choose, and to give you
 
 <br>
 
----
+
 ## Homebrews
-My campaigns use a handful of custom mechanics (Damage Explosion, Rolling with Emphasis, Critical Mastery, and more — see [[3 Homebrew Mechanics\|3 Homebrew Mechanics]]). They aren’t here to make things complicated or crunchy for no reason. They’re here to add flavor, excitement, and reinforce the overall vibe of the game.
+---
+
+My campaigns use a handful of custom mechanics (Damage Explosion, Rolling with Emphasis, Critical Mastery, and more — see [[3 Homebrew Mechanics\|here]]). They aren’t here to make things complicated or crunchy for no reason. They’re here to add flavor, excitement, and reinforce the overall vibe of the game.
 
 Think of them as little boosts that make moments hit harder or feel cooler.
 
