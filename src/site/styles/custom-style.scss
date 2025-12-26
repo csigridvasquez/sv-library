@@ -16,7 +16,7 @@ body {
      font-family: 'Grandstander',;
      font-weight: 600; /* force override */
      font-size: 3.5rem;
-     color: #AF6E95;
+     color: #CC8F8A;
       
     }
 
@@ -24,34 +24,37 @@ body {
       font-family: 'Capriola', ital;
       font-weight: 700;
       font-size: 2.1rem;
+      color: #C67771;
     }
 
      h3 {
       font-family: 'Capriola', ital;
       font-weight: 400;
       font-size: 1.9rem;
+      color: #C67771;
     }
       
     h4 {
       font-family: 'Capriola', serif;
       font-weight: 400;
       font-size: 1.4rem;
+      color: #716197;
     }
 
           /* Italic */
     em {
-      color: #704C5E;
+      color: #C67771;
     }
 
     /* Bold */
     strong {
-      color: #704C5E;
+      color: #C67771;
     }
 
     /* Bold + Italic */
     strong em,
     em strong {
-      color: #FF8587;
+      color: ##716197;
     }
   } /*content*/
   
