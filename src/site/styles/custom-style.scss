@@ -4,6 +4,7 @@
 
 
 body {
+
   /*font stuff*/
     .content {
     /* Body content */
@@ -13,7 +14,7 @@ body {
 
     h1 {
      font-family: 'Capriola',;
-     font-weight: 200; /* force override */
+     font-weight: 400; /* force override */
      font-size: 3.1rem;
      color: #EE6352;
       
@@ -81,11 +82,10 @@ body {
   } /*left sidebar*/
 
   /*LEFT SIDEBAR*/
-  .left-sidebar {
-    width: 350px;
-    min-width: 350px;
-    max-width: 350px;
-  }
+ .site-header {
+  width: 400px;
+}
+
 
   
 } /*body*/
