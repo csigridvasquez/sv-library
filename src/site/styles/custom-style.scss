@@ -1,36 +1,38 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bowlby+One&family=McLaren&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Grandstander:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 body {
   /*font stuff*/
     .content {
     /* Body content */
-    font-family: 'McLaren', serif;
+    font-family: 'Montserrat', serif;
     font-size: 16px;
     line-height: 1.65;
 
     h1 {
-     font-family: 'Bowlby One',;
+     font-family: 'Capriola',;
      font-weight: 200; /* force override */
      font-size: 3.1rem;
-     color: #CE6A85;
+     color: #EE6352;
       
     }
 
     h2 {
-      font-family: 'Bellota', ital;
+      font-family: 'Capriola', ital;
       font-weight: 700;
       font-size: 1.9rem;
     }
 
      h3 {
-      font-family: 'Bellota', ital;
+      font-family: 'Capriola', ital;
       font-weight: 400;
       font-size: 1.9rem;
     }
       
     h4 {
-      font-family: 'McLaren', serif;
+      font-family: 'Capriola', serif;
       font-weight: 400;
       font-size: 1.4rem;
     }
@@ -48,7 +50,7 @@ body {
     /* Bold + Italic */
     strong em,
     em strong {
-      color: #704C5E;
+      color: #FF8587;
     }
   } /*content*/
   
